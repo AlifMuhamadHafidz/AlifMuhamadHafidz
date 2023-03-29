@@ -35,7 +35,6 @@
 </p>
 
 ### Github Stats :
-
-<a href="https://github.com/AlifMuhamadHafidz"> <img src="https://github-readme-stats.vercel.app/api?username=AlifMuhamadHafidz&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="alif" /></a>
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=AlifMuhamadHafidz&theme=radical&show_icons=true&count_private=true" align="center" /></div> 
 
 <div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlifMuhamadHafidz&theme=radical&card_width=445&layout=compact" align="center" /></div>
