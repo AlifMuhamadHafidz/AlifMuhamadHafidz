@@ -33,10 +33,10 @@
 ### Technologies :
    ![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=linux&logoColor=black)
    ![Gorm](https://img.shields.io/badge/Gorm-00ADD8?logo=go&logoColor=black)
+   ![Echo](https://img.shields.io/badge/Echo-23CF5F?logo=go&logoColor=white)
    ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&logo=mysql&logoColor=black)
-   ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-   ![AWS EC2](https://img.shields.io/badge/AWS-EC2-232F3E?logo=amazon-ec2&logoColor=black)
-   ![AWS S3](https://img.shields.io/badge/AWS-S3-569A31?logo=amazon-s3&logoColor=black)
+   ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=black)
+   ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=black)
    ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)
    ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black)
    ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=black)
