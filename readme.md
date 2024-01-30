@@ -25,7 +25,7 @@
 ### Programming Languages :
 ![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?&logo=openjdk)
-![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2B%2B&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&logo=kotlin&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 <!-- ![JAVASCRIPT](https://img.shields.io/badge/-javasript-000?&logo=Javascript) -->
 
